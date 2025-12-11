@@ -1,0 +1,5 @@
+def hello(name):
+    for i in range(3):
+        print (f"hello my dear {name}")
+hello("javad")
+        
