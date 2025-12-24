@@ -1,0 +1,7 @@
+setup.py
+my_house/__init__.py
+my_house/devices.py
+my_house.egg-info/PKG-INFO
+my_house.egg-info/SOURCES.txt
+my_house.egg-info/dependency_links.txt
+my_house.egg-info/top_level.txt
