@@ -1,0 +1,2 @@
+
+print(deal_card)
