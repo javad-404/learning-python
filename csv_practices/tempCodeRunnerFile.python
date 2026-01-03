@@ -1,0 +1,8 @@
+import pandas
+
+data_dict = {
+    "students": ["Ali", "Sara", "Amir"],
+    "scores": [18, 20, 19]
+}
+new_data = pandas.DataFrame(data_dict)
+new_data = new_data.to_csv("students.csv", index= False)
